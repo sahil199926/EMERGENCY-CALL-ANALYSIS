@@ -3,7 +3,7 @@ This priject is based on data analysis and visualisation with python and some aw
 you will get to know how awEsome and easy data analysis is with python.The project aim was to work on a 
 emercency call dataset(911) and further repesent a beautiful visualisations based on different requirnments.
 
-# Liberaries
+# Libraries
 The project consist of pandas, numpy, seaborn, matplotlib, seaborn liberaries.
 
 # Instructions
