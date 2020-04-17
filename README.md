@@ -9,10 +9,10 @@ The project consist of pandas, numpy, seaborn, matplotlib, seaborn liberaries.
 # Instructions
 Before you reading and understand the code ,i would suggest yo to be kind of familliar of python and if 
 any you don't understand any code line search on stackoverflow. 
-project conisist of 3 parts
-# PART-1 
+# Project conisist of 3 parts
+ PART-1 
 Its consist on loading the dataset and importing the required files(you can find The dataset attached with this file)
-# PART-2
+ PART-2
 It consist on analysing the data with pandas
-# PART-3
+ PART-3
 Finally this part consist of data visualisation based on diffrent requirnments
